@@ -1,4 +1,4 @@
-package creational.builder;
+package creational.builder.test;
 
 public class Computer {
     public String cpu, ram, storage, screen;
